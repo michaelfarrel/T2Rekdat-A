@@ -8,4 +8,4 @@ Tugas 2 Mata Kuliah Rekayasa Data
 4. 6162201109 - Sammy Alexis
 
 ## Lampiran
-* **Link Prompt AI  :**
+* **Link Prompt AI  :** https://chatgpt.com/share/6a0ad3d1-4234-83ec-8de3-345659a9f894
